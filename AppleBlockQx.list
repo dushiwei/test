@@ -1,0 +1,5 @@
+host-suffix, gdmf.apple.com, reject
+host-suffix, gdmf-ados.apple.com, reject
+host-suffix, mesu.apple.com, reject
+host-suffix, updates.cdn-apple.com, reject
+host-suffix, updates-http.cdn-apple.com, reject
